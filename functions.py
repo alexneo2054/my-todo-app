@@ -19,4 +19,4 @@ def write_todos(todos_arg, filepath=FILEPATH):
 
 
 if __name__ == "__main__":
-    print(get_todos())
+    #print(get_todos())
